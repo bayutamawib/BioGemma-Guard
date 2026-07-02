@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "BioGemma-Guard: Calibrated Abstention in Clinical LLMs via Group Relative Policy Optimization"
+type: software
+authors:
+  - family-names: "Wibisono"
+    given-names: "Narendra Bayutama"
+    orcid: ""
+version: "1.0.0"
+date-released: "2026-07-02"
+license: "Apache-2.0"
+repository-code: "https://github.com/username/BioGemma-Guard"
+keywords:
+  - "Medical LLMs"
+  - "GRPO"
+  - "Reinforcement Learning"
+  - "Calibrated Abstention"
+  - "Chain-of-Thought"
+  - "Conformal Prediction"
+  - "AI Safety"
